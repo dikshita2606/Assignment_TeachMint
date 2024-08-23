@@ -1,0 +1,251 @@
+2024-08-21 23:30:00,977 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-21 23:30:13,630 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-21 23:30:25,221 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-21 23:30:35,272 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-21 23:30:42,977 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:16:43,286 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:16:55,841 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:17:07,335 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:17:18,307 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:17:24,613 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:17:24,953 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 00:17:28,607 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 00:17:29,118 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 00:26:42,486 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:26:54,745 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:28:18,515 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:28:30,967 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:28:42,293 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:28:52,007 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:28:59,210 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:28:59,407 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 00:30:10,905 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:30:24,050 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:30:35,316 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:30:46,492 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:30:52,543 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:30:52,685 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 00:32:12,438 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:32:23,606 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:32:35,002 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:32:45,919 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:32:53,160 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:32:53,336 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 00:34:37,999 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:34:49,177 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:35:00,103 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:35:08,775 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:35:16,107 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:35:16,426 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 00:35:19,739 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 00:35:20,309 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 00:36:18,493 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:36:30,229 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:36:41,342 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:36:50,940 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:36:57,906 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:36:58,704 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 00:37:01,867 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 00:41:13,242 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:41:24,710 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:41:36,026 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:41:45,972 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:41:53,692 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:41:54,096 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 00:41:57,204 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 00:48:16,317 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 00:48:29,311 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 00:48:40,555 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 00:48:52,309 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 00:48:59,380 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 00:48:59,615 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 21:34:13,674 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 21:34:25,815 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 21:34:37,264 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 21:34:46,314 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 21:34:55,313 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 21:34:55,705 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 21:34:59,186 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 21:35:44,436 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 21:37:54,932 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 21:38:12,358 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 21:38:25,124 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 21:38:36,994 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 21:38:48,218 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 21:38:48,756 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :Character certificate
+2024-08-22 21:38:52,240 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 21:39:40,783 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 22:46:59,662 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 22:47:12,546 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 22:47:23,858 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 22:47:35,172 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 22:47:42,506 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 22:47:43,094 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-22 22:47:46,483 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 22:47:52,382 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 22:47:52,472 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-22 23:09:24,815 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 23:09:38,310 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 23:09:49,286 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 23:09:58,376 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 23:10:06,749 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 23:10:07,217 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-22 23:10:10,757 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 23:10:16,693 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 23:10:16,766 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-22 23:10:19,283 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-22 23:10:20,492 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-22 23:10:25,567 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-22 23:14:07,763 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 23:14:19,324 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 23:14:30,691 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 23:14:40,089 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 23:14:46,965 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 23:14:47,247 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-22 23:14:50,706 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 23:14:56,550 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 23:19:54,522 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 23:20:08,926 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 23:20:19,975 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 23:20:30,462 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 23:20:36,902 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 23:20:37,207 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-22 23:20:40,816 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 23:20:47,570 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 23:20:47,721 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-22 23:20:55,729 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-22 23:21:00,914 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-22 23:21:08,413 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-22 23:47:11,866 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 23:47:24,077 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 23:47:35,804 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 23:47:48,885 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 23:47:54,650 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 23:47:55,063 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-22 23:47:58,538 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 23:48:05,210 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 23:48:05,268 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-22 23:48:12,954 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-22 23:48:18,209 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-22 23:48:25,830 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-22 23:48:25,856 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-22 23:51:19,367 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 23:51:32,312 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 23:51:43,794 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 23:51:52,512 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 23:51:58,934 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 23:51:59,671 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-22 23:52:02,942 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 23:52:08,905 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 23:52:08,970 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-22 23:52:16,886 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-22 23:52:22,128 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-22 23:52:27,993 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-22 23:53:12,831 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-22 23:55:43,989 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 23:55:55,069 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 23:56:06,137 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 23:56:15,019 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 23:56:21,514 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 23:56:22,018 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-22 23:56:25,470 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-22 23:56:31,355 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-22 23:56:31,417 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-22 23:56:39,208 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-22 23:56:44,465 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-22 23:56:50,666 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-22 23:58:12,690 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-22 23:59:17,800 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-22 23:59:30,971 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-22 23:59:42,181 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-22 23:59:51,953 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-22 23:59:58,545 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-22 23:59:58,827 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-23 00:00:02,278 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-23 00:00:08,196 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-23 00:00:08,264 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-23 00:00:16,052 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-23 00:00:21,311 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-23 00:00:26,914 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-23 00:06:43,111 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-23 00:06:55,649 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-23 00:07:06,795 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-23 00:07:17,356 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-23 00:07:23,675 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-23 00:07:24,029 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-23 00:07:27,364 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-23 00:07:33,177 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-23 00:07:33,248 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-23 00:07:40,973 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-23 00:07:46,209 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-23 00:07:52,065 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-23 00:10:04,109 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-23 00:12:49,799 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-23 00:13:01,748 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-23 00:13:13,082 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-23 00:13:22,486 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-23 00:13:28,434 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-23 00:13:28,876 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-23 00:13:32,572 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-23 00:13:38,675 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-23 00:13:38,736 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-23 00:13:46,453 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-23 00:13:51,720 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-23 00:13:57,660 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-23 00:15:09,423 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-23 00:21:00,300 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-23 00:21:12,089 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-23 00:21:23,369 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-23 00:21:34,040 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-23 00:21:40,155 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-23 00:21:40,453 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-23 00:21:44,034 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-23 00:21:50,118 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-23 00:21:50,204 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-23 00:21:57,877 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-23 00:22:03,104 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-23 00:22:09,450 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-23 00:22:43,198 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-23 00:30:53,389 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-23 00:31:05,606 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-23 00:31:06,060 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-23 00:31:20,663 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-23 00:31:28,700 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-23 00:31:29,396 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-23 00:31:32,711 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-23 00:31:38,657 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-23 00:31:38,756 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-23 00:31:46,477 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-23 00:31:51,695 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-23 00:31:58,096 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-23 00:32:14,513 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-23 00:41:11,196 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-23 00:41:22,963 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-23 00:41:23,570 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-23 00:41:36,947 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-23 00:42:36,879 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-23 00:42:37,182 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-23 00:42:40,663 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-23 00:42:47,143 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-23 00:42:47,268 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-23 00:42:55,022 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-23 00:43:00,264 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-23 00:43:07,981 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-23 00:43:08,416 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-23 00:44:08,301 - com.assignment.TC.BaseClass -INFO - Back to certificate page.
+2024-08-23 00:44:17,527 - com.assignment.TC.BaseClass -INFO - history Validated
+2024-08-23 00:47:48,522 - com.assignment.TC.BaseClass -INFO - URL is opened successfully
+2024-08-23 00:47:59,758 - com.assignment.TC.BaseClass -INFO - userName is set
+2024-08-23 00:48:00,188 - com.assignment.TC.BaseClass -INFO - OTP is set
+2024-08-23 00:48:09,426 - com.assignment.TC.BaseClass -INFO - Logged in successfully
+2024-08-23 00:48:18,064 - com.assignment.TC.BaseClass -INFO - Successfully on Certificate Page
+2024-08-23 00:48:18,545 - com.assignment.TC.BaseClass -INFO - Certificate Selected is :School leaving certificate
+2024-08-23 00:48:22,115 - com.assignment.TC.BaseClass -INFO - Generate btn is clicked 
+2024-08-23 00:48:28,221 - com.assignment.TC.BaseClass -INFO - Search and select the student and Click on generate
+2024-08-23 00:48:28,276 - com.assignment.TC.BaseClass -INFO - Successfully on Enetr Student Details page
+2024-08-23 00:48:35,879 - com.assignment.TC.BaseClass -INFO - Remarks added successfully
+2024-08-23 00:48:41,126 - com.assignment.TC.BaseClass -INFO - Generate Btn is clicked
+2024-08-23 00:48:47,520 - com.assignment.TC.BaseClass -INFO - certicate Downloaded
+2024-08-23 00:48:47,795 - com.assignment.TC.BaseClass -INFO - Back to parent Window
+2024-08-23 00:48:49,751 - com.assignment.TC.BaseClass -INFO - Back to certificate page.
+2024-08-23 00:48:49,930 - com.assignment.TC.BaseClass -INFO - history Validated
